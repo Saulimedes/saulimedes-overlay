@@ -1,4 +1,4 @@
-# Copyright 2024 Gentoo Authors
+# Copyright 2026 Gentoo Authors
 # Distributed under the terms of the ISC License
 
 EAPI=8
@@ -22,7 +22,7 @@ BDEPEND="
 DEPEND="
 	sys-libs/ncurses:=
 	dev-libs/libbsd
-	dev-libs/libmd
+	app-crypt/libmd
 	sys-libs/zlib
 	dev-libs/libevent:=
 	dev-libs/libretls
