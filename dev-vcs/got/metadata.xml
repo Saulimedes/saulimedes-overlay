@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>saulimedes@gmail.com</email>
+		<name>saulimedes</name>
+	</maintainer>
+	<upstream>
+		<remote-id type="github">ThomasAdam/got-portable</remote-id>
+		<bugs-to>https://github.com/ThomasAdam/got-portable/issues</bugs-to>
+	</upstream>
+	<longdescription>
+		Game of Trees (got) is a version control system which prioritizes
+		ease of use and simplicity over flexibility. It is developed by
+		the OpenBSD project. got-portable is the portable version for
+		Linux and other Unix-like systems. It includes both the got
+		command-line tool and tog, an ncurses-based repository browser.
+	</longdescription>
+</pkgmetadata>
